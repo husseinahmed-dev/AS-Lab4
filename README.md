@@ -12,3 +12,4 @@ SIEM (Splunk Enterprise + Splunk SOAR "Phantom")
 
 ## Splunk Enterprise Architecture Components
 ![Splunk_Architecture_Components](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-67.png)
+![Splunk_Architecture_Components2](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-68.png)
