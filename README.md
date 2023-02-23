@@ -4,7 +4,7 @@ SIEM (Splunk Enterprise + Splunk SOAR "Phantom")
 ## SIEM Architecture
 ![SIEM_Architecture](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/SIEM_Architecture3.png)
 
-## Splunk SOAR (Phantom)
+## Splunk SOAR (Phantom) - Security Orchestration, Automation, and Response solution
 ![Splunk_SOAR](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-119.png)
 ![Splunk_SOAR2](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-111.png)
 ![Splunk_SOAR3](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-112.png)
