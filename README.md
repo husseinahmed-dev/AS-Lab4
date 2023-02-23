@@ -10,9 +10,9 @@ SIEM (Splunk Enterprise + Splunk SOAR "Phantom")
 ![Splunk_SOAR3](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-112.png)
 
 ## Automated Alert & Remediation
-[![Video1](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/automated_alert.jpg)](https://youtu.be/fsYpNKeht9M)
+[![Video1](https://github.com/husseinahmed-dev/AS-Lab4/blob/main/Splunk_Enterprise__Automated_Alert_and_Remediation_Demo.gif)](https://youtu.be/fsYpNKeht9M)
 
-## Splunk Enterprise Architecture Components
+## Splunk Enterprise Components Architecture
 ### Standalone
 ![Splunk_Architecture_Components](https://raw.githubusercontent.com/husseinahmed-dev/AS-Lab4/main/Figures/Figure-67.png)
 ### Distributed & Clustered
